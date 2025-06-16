@@ -1,7 +1,9 @@
+## 👨‍💻 Caio Azevedo
+
 ### 🐧 Yoo! Welcome to my github profile
 
 #### About me:
-- I'm a Software Developer with a degree in systems analysis and development.
+- I'm a BackEnd Developer with a degree in systems analysis and development.
 - I'm 20 years old and I live in Brazil
 - My hobbies are videogames and music.
 - Languages: English, portuguese.
