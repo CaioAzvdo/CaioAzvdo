@@ -23,4 +23,4 @@
 ![React](https://img.shields.io/badge/ReactJS-0066cc?style=for-the-badge&logo=react&logoColor=white)
 
 ## Where you can find me
-<a href="[youtube.com](https://www.linkedin.com/in/caio-azevedo-670b70213/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/caio-azevedo-670b70213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
