@@ -34,3 +34,8 @@
 
 ## Where you can find me:
 <a href="https://www.linkedin.com/in/caio-azevedo-670b70213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/caioazvdo/count.svg?"  />
+</div>
+
